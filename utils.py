@@ -1,9 +1,7 @@
 import os
 import shutil
-from tkinter import filedialog, messagebox
-
 import openpyxl
-from openai import OpenAI
+from tkinter import filedialog, messagebox
 
 
 def is_valid_openai_api_key(api_key: str):

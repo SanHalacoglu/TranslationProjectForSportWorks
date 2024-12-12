@@ -221,8 +221,8 @@ class TranslationApp:
         new_wb = openpyxl.Workbook()
         new_sheet = new_wb.active
         new_sheet.title = 'TranslateToTurkishFromEnglish'
-        new_sheet.cell(row=1, column=1).value = "Urun Kodu"
-        new_sheet.cell(row=1, column=2).value = "Turkce Urun Aciklamasi"
+        new_sheet.cell(row=1, column=1).value = "Ürün Kodu"
+        new_sheet.cell(row=1, column=2).value = "Turkce Ürün Açıklaması"
 
         # Prompt template for translation
         prompt_template = """
