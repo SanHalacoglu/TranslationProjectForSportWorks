@@ -11,6 +11,8 @@ The app uses an Excel spreadsheet as input. Here's how the spreadsheet should be
 
 The app then translates and formats this English product information. A simple and low-cost solution to a time-consuming problem.
 
+### How To Run
+
 ### Future Improvements
 * Allow the user to pick the model they want to use.
 * Allow more insight into prompting.
