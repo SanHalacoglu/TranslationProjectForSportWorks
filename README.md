@@ -9,7 +9,7 @@ The app uses an Excel spreadsheet as input. Here's how the spreadsheet should be
 *   **Row 1:** Product Codes
 *   **Row 2:** All the English product info in an unformatted manner (descriptions, attributes, and compositions)
 
-The app then translates and formats this English product information. A simple and low-cost solution to a time-consuming problem.
+The app then translates and formats this English product information into Turkish using the ChatGPT API (model 4o). This provides a simple, automated, and low-cost solution to a time-consuming problem.
 
 ### How To Run
 
