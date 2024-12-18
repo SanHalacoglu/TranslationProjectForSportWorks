@@ -12,9 +12,11 @@ The app uses an Excel spreadsheet as input. Here's how the spreadsheet should be
 The app then translates and formats this English product information into Turkish using the ChatGPT API (model 4o). This provides a simple, automated, and low-cost solution to a time-consuming problem.
 
 ### How To Run
+TODO
 
 ### Future Improvements
 * Allow the user to pick the model they want to use.
 * Allow more insight into prompting.
 * Allow the user to pick the language they are translating from and to.
 * Clean up UI.
+* Add Concurrency for large data processing.
