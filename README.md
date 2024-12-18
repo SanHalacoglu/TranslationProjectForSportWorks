@@ -19,4 +19,4 @@ TODO
 * Allow more insight into prompting.
 * Allow the user to pick the language they are translating from and to.
 * Clean up UI.
-* Add Concurrency for large data processing.
+* Add concurrency for large data processing.
